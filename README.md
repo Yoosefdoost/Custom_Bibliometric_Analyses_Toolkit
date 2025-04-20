@@ -4,7 +4,7 @@
 
 Custom Bibliometric Analyses Toolkit is a modular and powerful workflow for conducting comprehensive **bibliometric and keyword analysis** using BibTeX references. This toolkit could facilitate a structured and reproducible bibliometric analysis, research reviews, and large-scale literature mapping. This lightweight Python-based toolkit consisting of three integrated modules: (1) Common Keywords Extractor, which parses a BibTeX file to identify and rank frequently occurring keywords across all entries; (2) Target Keywords Analyzer, which assesses the presence of user-defined thematic terms within the title, abstract, and keyword fields of each publication; and (3) Sankey Diagram Generator, which visualizes the relationships between articles and their associated thematic keywords using an interactive Sankey diagram. This toolkit enables both exploratory and targeted analysis of research trends, and is particularly suited for mapping domain-specific literature and preparing structured reviews. All components are open-source, modular, and operate on standard bibliographic formats exported from tools such as Zotero or Web of Science.
 
-** How it works**
+**How it works**
 
 This toolkit integrates keyword extraction, targeted thematic mapping, and visual network representation of bibliographic records. Its modular system comprises three main tools, each serving a specific analytical function and designed to operate on BibTeX files commonly exported from reference management systems such as Zotero, EndNote, or Web of Science.
 
